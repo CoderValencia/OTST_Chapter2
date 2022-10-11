@@ -6,10 +6,10 @@ null,
 {"id":4,"expanded":false,"name":"Concerto","order":9,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":5,"expanded":false,"name":"Credits","order":11,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":6,"expanded":false,"name":"Content Credits","order":10,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":7,"expanded":false,"name":"TheApartmentv2","order":7,"parentId":0,"scrollX":816,"scrollY":670},
-{"id":8,"expanded":true,"name":"MallowedgeGates","order":2,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":7,"expanded":false,"name":"TheApartmentv2","order":7,"parentId":0,"scrollX":1036.5,"scrollY":1011},
+{"id":8,"expanded":true,"name":"MallowedgeGates","order":2,"parentId":0,"scrollX":1048.5,"scrollY":669},
 {"id":9,"expanded":true,"name":"OutdoorArea","order":1,"parentId":0,"scrollX":1048.5,"scrollY":669},
 {"id":10,"expanded":false,"name":"Mallowedge","order":3,"parentId":0,"scrollX":1036,"scrollY":658},
-{"id":11,"expanded":false,"name":"GhostHotel","order":4,"parentId":0,"scrollX":864,"scrollY":788},
+{"id":11,"expanded":false,"name":"GhostHotel","order":4,"parentId":0,"scrollX":848,"scrollY":804},
 {"id":12,"expanded":false,"name":"Room237","order":5,"parentId":0,"scrollX":832,"scrollY":640}
 ]
